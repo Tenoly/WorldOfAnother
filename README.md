@@ -20,4 +20,5 @@ Will you be a simple merchant or become the lord of a town? Whatever you choose,
 
 # State of the project
 - Voronoi-based world generation (regions)
+![World generation example](/Resources/WGSC.png)
 - Entity system base framework (no relations yet)
