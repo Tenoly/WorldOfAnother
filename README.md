@@ -1,3 +1,6 @@
+## Disclaimer
+This project is a hobby, lots of idea but not much time invested.
+
 # WorldOfAnother
  Sandbox game based on random generation
 
